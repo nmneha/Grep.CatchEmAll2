@@ -36,12 +36,10 @@ ls | wc -l
 
 ### b)
 
-Charizard, Beedrill, Butterfree, Blastoise
+Charizard, Beedrill, Pikachu
 
-nusera@zipcoders-MBP forest % grep blas filescan_00.1 | wc -l
-      38
-nusera@zipcoders-MBP forest % grep butt filescan_00.1 | wc -l
-      38
+orest % grep pika filescan_00.3 | wc -l
+      40
 nusera@zipcoders-MBP forest % grep beed filescan_00.1 | wc -l
       40
 nusera@zipcoders-MBP forest % grep izard$ filescan_00.2 | wc -l
